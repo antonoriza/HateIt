@@ -1,4 +1,4 @@
-# LoveIt Theme | Hugo [![Netlify Status](https://api.netlify.com/api/v1/badges/e60303f2-862c-4342-bf59-7c9adb10812e/deploy-status)](https://app.netlify.com/sites/hugo-loveit/deploys)
+# HateIt Theme | Hugo [![Netlify Status](https://api.netlify.com/api/v1/badges/e60303f2-862c-4342-bf59-7c9adb10812e/deploy-status)](https://app.netlify.com/sites/hugo-loveit/deploys)
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/releases)
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
@@ -199,16 +199,6 @@ Thanks to the authors of following resources included in the theme:
 ## Author
 
 [Dillon](https://dillonzq.com)
-
-## Sponsor
-
-If you enjoy the theme, please consider buying me a coffee ☕️.
-
-* [PayPal](https://paypal.me/dillonzq)
-* [Alipay](https://github.com/dillonzq/LoveIt/raw/master/images/Alipay.jpg)
-* [Wechat](https://github.com/dillonzq/LoveIt/raw/master/images/Wechat.jpg)
-
-Thanks! ❤️
 
 ## Stargazers over time
 
