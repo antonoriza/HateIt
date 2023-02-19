@@ -69,7 +69,7 @@
 
 .archive-item-date {
   width: 5em;
-  text-align: right;
+  text-align: left;
   color: $global-font-secondary-color;
 
   [theme=dark] & {
@@ -78,5 +78,5 @@
 }
 
 .more-post {
-  text-align: right;
+  text-align: left;
 }
